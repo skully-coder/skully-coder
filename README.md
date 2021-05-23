@@ -11,6 +11,10 @@
 ![s](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![s](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![s](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![Profile Views](https://komarev.com/ghpvc/?username=skully-coder&label=Profile+Views)
+
+
 <!--
 **skully-coder/skully-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
