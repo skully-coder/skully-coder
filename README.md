@@ -11,6 +11,7 @@
 ![s](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![s](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![s](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=skully-coder&theme=dark)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=skully-coder&label=Profile+Views)
 
