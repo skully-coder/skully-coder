@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Abhinav Agrawal, a pre-final year CSE student at Manipal Institute of Technology. I am into **App Dev** using **Flutter**, and I am starting out with **Machine Learning**.
+I am Abhinav Agrawal, a pre-final year CSE student at Manipal Institute of Technology. I am into **App Development** using **Flutter**, and **Backend Development** using **Node.js and Python**, and I am starting out with **Machine Learning**.
 <!-- 
 ![s](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=L1&logoColor=white&color=2bbc8a)
 ![s](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -36,10 +36,12 @@ I am Abhinav Agrawal, a pre-final year CSE student at Manipal Institute of Techn
 
 ### Operating Systems I Use:  
 ![s](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![s](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=skully-coder&label=Profile+Views) -->
-<!-- - 🔭 I’m currently working on *Cupidity, an app that connects people based on their tastes in music* -->
+![s](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![Profile Views](https://komarev.com/ghpvc/?username=skully-coder&label=Profile+Views)
+
+- 🔭 I’m currently working on *Cupidity, an app that connects people based on their tastes in music*
 - 🌱 I’m currently learning *Data Structures and Algorithms*
+
 ### Here are some of my GitHub stats: 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skully-coder&theme=dark" /> 
 
