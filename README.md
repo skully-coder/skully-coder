@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey!+I+am+Abhinav.)](https://git.io/typing-svg)  
 I am Abhinav Agrawal, a pre-final year CSE student at Manipal Institute of Technology. I am into **App Development** using **Flutter**, and **Backend Development** using **Node.js and Python**, and I am starting out with **Machine Learning**.
 <!-- 
 ![s](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=L1&logoColor=white&color=2bbc8a)
