@@ -49,7 +49,7 @@ I am Abhinav Agrawal, a pre-final year CSE student at Manipal Institute of Techn
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=skully-coder&theme=dark)](https://git.io/streak-stats)
 
 
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/skully-coder/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
 
 <!--
 **skully-coder/skully-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
