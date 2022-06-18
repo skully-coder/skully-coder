@@ -50,6 +50,8 @@ I am Abhinav Agrawal, a pre-final year CSE student at Manipal Institute of Techn
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/skully-coder/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)
 
+### My Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=skully-coder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **skully-coder/skully-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
