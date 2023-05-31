@@ -39,8 +39,8 @@ I am Abhinav Agrawal, a final year CSE student at Manipal Institute of Technolog
 ![s](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 ![Profile Views](https://komarev.com/ghpvc/?username=skully-coder&label=Profile+Views)
 
-- 🔭 I’m currently working on *Cupidity, an app that connects people based on their tastes in music*
-- 🌱 I’m currently learning *Data Structures and Algorithms*
+<!-- - 🔭 I’m currently working on *Cupidity, an app that connects people based on their tastes in music*
+- 🌱 I’m currently learning *Data Structures and Algorithms* -->
 
 ### Here are some of my GitHub stats: 
 
