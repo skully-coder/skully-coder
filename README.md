@@ -1,5 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey!+I+am+Abhinav.)](https://git.io/typing-svg)  
-I am Abhinav Agrawal, an Application Developer at Oracle. I am into **App Development** using **Flutter**, **Backend Development** using **Node.js and Python**, and **Machine Learning** using **scikit-learn**.
+I am Abhinav Agrawal, a Senior Application Developer at Oracle working on Transportation & Global Trade Management systems.
+
+I’m particularly interested in building AI-powered systems and experimenting with Generative AI and agentic workflows.
+
+Outside of work, I actively build projects on GitHub (skully-coder) exploring:
+- Generative AI applications
+- Agent-based systems
+- Developer tools
+- Backend systems in Java and Python
+
 <!-- 
 ![s](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=L1&logoColor=white&color=2bbc8a)
 ![s](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
